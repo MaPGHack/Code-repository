@@ -1,0 +1,5 @@
+#variables
+x = input int("Escribe la primera variable: ")
+y = input int("Escribe la segunda variable: ")
+
+#codigo
